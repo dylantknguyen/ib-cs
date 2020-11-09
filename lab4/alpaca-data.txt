@@ -1,0 +1,4 @@
+Avocado%7%200.45%true%
+Strawberry%9%280.1%false%
+Melon%4%160.23%true%
+Mango%6%220.7%false%
