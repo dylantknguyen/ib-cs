@@ -53,13 +53,13 @@ public class AlpacaGUI extends JPanel {
         panel.add(weightLabel = new JLabel("Alpaca Weight"));
         panel.add(likesPetsLabel = new JLabel("Likes Pets"));
         panel.add(messageLabel = new JLabel("Message"));
+        panel.add(responseLabel = new JLabel(""));
 
         // Adds Fields
         panel.add(nameTextField = new JTextField(25));
         panel.add(ageTextField = new JTextField(25));
         panel.add(weightTextField = new JTextField(25));
         panel.add(likesPetsTextField = new JTextField(25));
-        panel.add(responseLabel = new JLabel(""));
 
         // Create Button Panel
         JPanel buttonPanel = new JPanel();

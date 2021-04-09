@@ -12,7 +12,6 @@ import java.awt.event.*;
 // 'extends JPanel' makes our class a panel  
 public class HelloWorldPanel extends JPanel {
     // declare what is needed for the panel
-
     // use meaningful variable names
     JLabel nameLabel;
     JTextField nameTextField;
